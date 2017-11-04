@@ -1,3 +1,3 @@
-# Bootstrap_Portfolio
+# Basic-Portfolio
 
-This version of the portfoliio is created wtih Bootstrap
+This is the test of the basic portfolio text edited through notepad
